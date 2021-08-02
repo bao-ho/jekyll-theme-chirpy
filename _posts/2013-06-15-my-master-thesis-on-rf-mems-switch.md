@@ -10,4 +10,4 @@ Radio Frequency Micro Mechanical System (RF MEMS) switches are swiches that allo
 
 In experimental work, I characterized copper oxide film to see if it can be used in RF MEMS switches. The research found that CuO film is not an ideal material for RF MEMS switches, due to its surface roughness and its low dielectric strength. In parallel with experimental work, I have also carried out the analyses and simulations of CuO switches and found that bending, stretching and especially, residual stress have strong effects on mechanical behavior of the switches, particularly the pull-in voltage. The simulation and the analytical model could be helpful for designing and optimizing RF MEMS switches .
 
-The thesis can be downloaded using [this link](/assets/pdf/master_thesis_Bao_Ho.pdf).
+The thesis can be downloaded using [this link]({{ site.url }}{{ site.baseurl }}/assets/pdf/master_thesis_Bao_Ho.pdf).
